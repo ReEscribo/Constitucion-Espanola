@@ -1,0 +1,14 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "La Constitución Española",
+    "description": "Repositorio público de La Constitución Española",
+    "variables": {
+        "version": "0.0.1"
+    },
+
+    "plugins": [ "github" ],
+    "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/ReEscribo/Constitucion-Espanola"
+    }
+}
